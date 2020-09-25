@@ -1,0 +1,12 @@
+	<div class="boxA">
+			<p><img src="images/kal.png"  width="300" height="180"></p>
+			<a href="#" class="button button-alt">More Info</a>
+		</div>
+		<div class="boxB">
+			<p><img src="images/ktv.png" height="180" ></p>
+			<a href="#" class="button button-alt">More Info</a>
+		</div>
+		<div class="boxC">
+			<p><img src="images/cen.png"  width="300" height="180"></p>
+			<a href="#" class="button button-alt">More Info</a>
+		</div>
